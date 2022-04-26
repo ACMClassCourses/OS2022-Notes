@@ -17,7 +17,7 @@
 
 * cases for 2 processes
 
-![fig1](C:\Users\lhtie\Documents\ACM Class\大二下\计算机系统(2)\OS2022-Notes\group6\fig1.png)
+![fig1](fig1.png)
 
 ps: turn不需要加锁，因为同一时刻turn一定只有一个固定的值，不影响互斥
 
