@@ -6,3 +6,6 @@
 - [Group 2](./group2/OSNote2.md)
 - [Group 3](./group3/IO.md)
 - [Group 4](./group4/OSNote4_0419.md)
+- [Group 5](./group5/Note.md)
+- [Group 6](./group6/deadlock.md)
+- [Group 7](./group7/notes.md)
